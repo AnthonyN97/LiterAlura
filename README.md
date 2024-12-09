@@ -1,6 +1,7 @@
 Literalura 📚
 
 Funcionalidades 🚀
+
 1.-Buscar libro por título: Encuentra un libro en la API y la agrega a la base de datos utilizando su título (o parte de el).
 
 2.-Listar libros registrados: Muestra todos los libros disponibles en el sistema.
