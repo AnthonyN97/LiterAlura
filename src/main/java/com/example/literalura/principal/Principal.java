@@ -27,7 +27,7 @@ public class Principal {
 
     public void muestraElMenu() {
         var opcion = "-1";
-        while (opcion != "0") {
+        while (!opcion.equals("0")) {
             var menu = """
                     1 - Buscar libro por titulo
                     2 - Listar libros registrados
